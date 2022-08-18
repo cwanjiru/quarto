@@ -1,0 +1,8 @@
+---
+title: "Quarto Preview"
+author: "Christine"
+format: 
+  pdf: 
+    toc: true
+    number-sections: true
+---

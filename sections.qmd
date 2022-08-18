@@ -1,0 +1,25 @@
+---
+title: Quarto Preview
+author: Christine
+date: 'December 25, 2020'
+toc: true
+number-sections: true
+---
+
+## Colors
+
+- Red
+- Green 
+- Blue
+
+## Shapes
+
+- Square
+- Circle
+- Triangle
+
+## Textures
+
+- Smooth
+- Bumpy
+- Fuzzy
